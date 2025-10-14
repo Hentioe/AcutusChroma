@@ -29,9 +29,9 @@
      showgrid="true"
      showguides="true"
      showborder="true"
-     inkscape:zoom="6.0034508"
-     inkscape:cx="90.281409"
-     inkscape:cy="80.870156"
+     inkscape:zoom="3.9324956"
+     inkscape:cx="79.466077"
+     inkscape:cy="110.48963"
      inkscape:current-layer="g20">
     <inkscape:grid
        id="grid1"
@@ -51,37 +51,101 @@
   <defs
      id="defs1">
     <linearGradient
-       id="linearGradient16"
+       id="linearGradient22"
        inkscape:label="shadow">
       <stop
-         style="stop-color:#000000;stop-opacity:0.2;"
+         style="stop-color:#000000;stop-opacity:0.16;"
          offset="0.16"
-         id="stop10" />
+         id="stop17" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.17;"
+         style="stop-color:#000000;stop-opacity:0.13;"
          offset="0.19360717"
-         id="stop11" />
+         id="stop18" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.11;"
+         style="stop-color:#000000;stop-opacity:0.07;"
          offset="0.27074456"
-         id="stop12" />
+         id="stop19" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.05;"
+         style="stop-color:#000000;stop-opacity:0.03;"
          offset="0.38"
-         id="stop13" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.02;"
-         offset="0.52999997"
-         id="stop14" />
+         id="stop20" />
       <stop
          style="stop-color:#000000;stop-opacity:0.01;"
-         offset="0.72782731"
-         id="stop15" />
+         offset="0.52999997"
+         id="stop21" />
       <stop
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         id="stop16" />
+         id="stop22" />
     </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,4,0,1 @ F,0,0,1,0,4,0,1 @ F,0,0,1,0,4,0,1 @ F,0,0,1,0,4,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect59"
@@ -377,7 +441,7 @@
        hide_knots="false" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient16"
+       xlink:href="#linearGradient22"
        id="radialGradient2"
        cx="48"
        cy="48"
@@ -388,7 +452,7 @@
        gradientTransform="matrix(0,-3,3,0,-96,192)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient16"
+       xlink:href="#linearGradient22"
        id="linearGradient10"
        x1="36"
        y1="71.99511"
@@ -398,7 +462,7 @@
        gradientTransform="matrix(2,0,0,1.0002036,-24,-0.00977099)" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient16"
+       xlink:href="#linearGradient22"
        id="radialGradient1"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,3,3,0,-96,-48)"
@@ -407,6 +471,74 @@
        fx="48"
        fy="48"
        r="24" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14-7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14-7-9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14-3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect14-79"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="5"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
   </defs>
   <g
      id="g20"
@@ -493,7 +625,7 @@
          id="use3"
          style="display:inline;fill:url(#radialGradient1);fill-rule:nonzero;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:markers stroke fill"
          inkscape:label="shadow"
-         d="M -24 96 L -24 168 L 48 168 L 48 108 L 42 108 L 36 108 L 36 102 L 36 96 L -24 96 z " />
+         d="m -24,96 v 72 H 48 V 109 H 35 v -1 -12 z" />
       <rect
          style="display:inline;fill:#e2e2e7;fill-opacity:1;stroke-width:1;stroke-opacity:0.45;paint-order:markers stroke fill"
          id="rect5"
@@ -504,7 +636,7 @@
          inkscape:label="innter" />
       <path
          id="rect3"
-         style="display:inline;fill:#000000;stroke-width:0;stroke-opacity:0.3;paint-order:markers stroke fill;fill-opacity:1;opacity:0.1"
+         style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:0;stroke-opacity:0.3;paint-order:markers stroke fill"
          inkscape:label="border"
          d="m 35,96 h 1 v 12 h -1 z m 0,12 h 13 v 1 H 35 Z" />
     </g>
@@ -516,18 +648,23 @@
          id="rect1"
          style="display:inline;fill:url(#radialGradient2);fill-rule:nonzero;stroke:none;stroke-width:1;stroke-opacity:1;paint-order:markers stroke fill"
          inkscape:label="shadow"
-         d="M -24 -24 L -24 48 L 36 48 L 36 42 A 6 6 0 0 1 42 36 L 48 36 L 48 -24 L -24 -24 z " />
+         d="m -24,-24 v 72 h 59 v -8 a 5,5 0 0 1 5,-5 h 8 v -59 z" />
       <path
-         id="rect4-6"
-         d="m 42,36 h 6 V 48 H 36 v -6 a 6,6 0 0 1 6,-6 z"
-         style="display:inline;fill:#e2e2e7;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:markers stroke fill"
-         inkscape:label="inner" />
+         style="display:inline;opacity:1;fill:#e2e2e7;fill-opacity:1;stroke-width:0;stroke-opacity:0.3;paint-order:markers stroke fill"
+         id="rect4"
+         width="12"
+         height="12"
+         x="36"
+         y="36"
+         sodipodi:type="rect"
+         inkscape:label="innter"
+         d="m 41,36 h 7 V 48 H 36 v -7 a 5,5 135 0 1 5,-5 z"
+         inkscape:path-effect="#path-effect14" />
       <path
-         id="rect4-2"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;opacity:0.1"
-         inkscape:label="border"
-         d="M 65.5,59 A 6.4999998,6.4999998 0 0 0 59,65.5 V 72 h 1 v -6 a 6,6 0 0 1 6,-6 h 6 v -1 z"
-         transform="translate(-24,-24)" />
+         id="rect15"
+         style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:0;stroke-opacity:0.3;paint-order:markers stroke fill"
+         d="m 40,35 a 5,5 0 0 0 -5,5 v 8 h 1 v -7 a 5,5 0 0 1 5,-5 h 7 v -1 z"
+         inkscape:label="border" />
     </g>
     <g
        id="decoration-left"
@@ -537,7 +674,7 @@
          id="path2"
          style="display:inline;fill:url(#linearGradient10);stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          inkscape:label="shadow"
-         d="m -24,48 v 47.972656 l 60,0.02344 V 48 Z" />
+         d="M -24 48 L -24 95.972656 L 35 95.996094 L 35 48 L -24 48 z " />
       <rect
          style="display:inline;fill:#e2e2e7;fill-opacity:1;stroke-opacity:0.45;paint-order:markers stroke fill"
          id="rect6-1"
@@ -547,7 +684,7 @@
          y="48"
          inkscape:label="innter" />
       <rect
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.3;paint-order:markers stroke fill;opacity:0.1"
+         style="display:inline;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:0.3;paint-order:markers stroke fill"
          id="rect2"
          width="1"
          height="48"
